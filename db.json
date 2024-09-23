@@ -99,6 +99,210 @@
             "availableUnits": 6,
             "wifi": true,
             "laundry": true
-        }
+        },
+        {
+                "id": 10,
+                "name": "Sunrise Apartments",
+                "city": "Miami",
+                "state": "FL",
+                "photo": "/assets/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+                "availableUnits": 3,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 11,
+                "name": "Evergreen Housing",
+                "city": "Seattle",
+                "state": "WA",
+                "photo": "/assets/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+                "availableUnits": 7,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 12,
+                "name": "Lakeside Residences",
+                "city": "Austin",
+                "state": "TX",
+                "photo": "/assets/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+                "availableUnits": 0,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 13,
+                "name": "Sunset Villas",
+                "city": "Phoenix",
+                "state": "AZ",
+                "photo": "/assets/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+                "availableUnits": 5,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 14,
+                "name": "Mountain View Housing",
+                "city": "Denver",
+                "state": "CO",
+                "photo": "/assets/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+                "availableUnits": 3,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 15,
+                "name": "Seaside Apartments",
+                "city": "San Diego",
+                "state": "CA",
+                "photo": "/assets/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+                "availableUnits": 8,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 16,
+                "name": "Palm Tree Housing",
+                "city": "Orlando",
+                "state": "FL",
+                "photo": "/assets/webaliser-_TPTXZd9mOo-unsplash.jpg",
+                "availableUnits": 2,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 17,
+                "name": "Urban Oasis Apartments",
+                "city": "New York",
+                "state": "NY",
+                "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+                "availableUnits": 1,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 18,
+                "name": "Bay Area Housing",
+                "city": "San Francisco",
+                "state": "CA",
+                "photo": "/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
+                "availableUnits": 4,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 19,
+                "name": "Desert Sands Housing",
+                "city": "Las Vegas",
+                "state": "NV",
+                "photo": "/assets/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+                "availableUnits": 6,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 20,
+                "name": "Pine Ridge Housing",
+                "city": "Boise",
+                "state": "ID",
+                "photo": "/assets/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+                "availableUnits": 3,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 21,
+                "name": "City Lights Apartments",
+                "city": "Los Angeles",
+                "state": "CA",
+                "photo": "/assets/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+                "availableUnits": 7,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 22,
+                "name": "Forest View Housing",
+                "city": "Portland",
+                "state": "OR",
+                "photo": "/assets/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+                "availableUnits": 2,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 23,
+                "name": "Riverbend Residences",
+                "city": "Nashville",
+                "state": "TN",
+                "photo": "/assets/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+                "availableUnits": 5,
+                "wifi": false,
+                "laundry": false
+            },
+            {
+                "id": 24,
+                "name": "Skyline Housing",
+                "city": "Dallas",
+                "state": "TX",
+                "photo": "/assets/webaliser-_TPTXZd9mOo-unsplash.jpg",
+                "availableUnits": 4,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 25,
+                "name": "Maple Grove Apartments",
+                "city": "Minneapolis",
+                "state": "MN",
+                "photo": "/assets/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+                "availableUnits": 1,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 26,
+                "name": "Ocean Breeze Housing",
+                "city": "Honolulu",
+                "state": "HI",
+                "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+                "availableUnits": 0,
+                "wifi": true,
+                "laundry": false
+            },
+            {
+                "id": 27,
+                "name": "Canyon Ridge Apartments",
+                "city": "Tucson",
+                "state": "AZ",
+                "photo": "/assets/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+                "availableUnits": 6,
+                "wifi": false,
+                "laundry": true
+            },
+            {
+                "id": 28,
+                "name": "Hilltop Homes",
+                "city": "Salt Lake City",
+                "state": "UT",
+                "photo": "/assets/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+                "availableUnits": 3,
+                "wifi": true,
+                "laundry": true
+            },
+            {
+                "id": 29,
+                "name": "Riverstone Housing",
+                "city": "Spokane",
+                "state": "WA",
+                "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+                "availableUnits": 5,
+                "wifi": true,
+                "laundry": false
+            }
+
+
+        
+
     ]
 }

@@ -1,11 +1,14 @@
 
 .results {
-    display: grid;
+/*     display: grid; *//* 
     column-gap: 14px;
-    row-gap: 14px;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 400px));
-    margin-top: 50px;
-    justify-content: space-around;
+    row-gap: 14px; */
+/*     grid-template-columns: repeat(auto-fill, minmax(32.5vw, 600px)); */
+/*     grid-template-columns: repeat(auto-fill, 300px);
+    gap: 10px;
+    justify-content: space-around; */
+    column-count: 4;
+    column-gap: 1em;
   }
   
   input[type="text"] {
