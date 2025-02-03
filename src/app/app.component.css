@@ -1,11 +1,19 @@
 :host {
     --content-padding: 10px;
   }
+
+  main {
+    overflow-x: hidden;
+  }
   header {
     display: block;
-    height: 60px;
+    height: fit-content;
     padding: var(--content-padding);
     box-shadow: 0px 5px 25px var(--shadow-color);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .content {
     padding: var(--content-padding);

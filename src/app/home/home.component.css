@@ -1,3 +1,26 @@
+form {
+  height: max-content;
+  width: 100%;
+  margin-inline: 0 !important;
+  padding-inline: 0 !important;
+  padding-block: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #555;
+}
+
+button {
+  padding: 10px;
+/*   border: solid 1px var(--primary-color); */
+  background: var(--primary-color);
+  color: white;
+  border-radius: 8px;
+  margin-inline: 0 !important;
+  margin-top: 5vh;
+  width: 15vw;
+}
 
 .results {
 /*     display: grid; *//* 
@@ -13,20 +36,13 @@
   }
   
   input[type="text"] {
+    text-align: center;
     border: solid 1px var(--primary-color);
     padding: 10px;
     border-radius: 8px;
-    margin-right: 4px;
+    margin-inline: 0 !important;
     display: inline-block;
-    width: 30%;
-  }
-  
-  button {
-    padding: 10px;
-    border: solid 1px var(--primary-color);
-    background: var(--primary-color);
-    color: white;
-    border-radius: 8px;
+    width: 15vw;
   }
   
   @media (min-width: 500px) and (max-width: 768px) {
