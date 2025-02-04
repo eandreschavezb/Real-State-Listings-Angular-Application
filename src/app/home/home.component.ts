@@ -12,7 +12,9 @@ import { HousingService } from '../housing.service';
 
   <section class="hero-bg">
     <header class="brand-name">
-      <img class="brand-logo" src="/assets/LOGO-REALSTATE-01.svg">
+<!--       <img class="brand-logo" src="/assets/LOGO-REALSTATE-01.svg"> -->
+    <h1>Tu Camino al Hogar Perfecto</h1>
+    <h2>Busca entre cientos de opciones con la garantia de anuncios actualizados periódicamente</h2>
     </header>
     <div class="input-containers">
         <form>
