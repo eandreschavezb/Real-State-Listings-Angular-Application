@@ -9,11 +9,17 @@ import { HousingService } from '../housing.service';
   standalone: true,
   imports: [CommonModule, HousingLocationComponent],
   template: `
-<section>
-    <form>
-      <input type="text" placeholder="Buscar una casa">
-      <button class="primary" type="button">BUSCAR</button>
-    </form>
+
+  <section class="hero-bg">
+    <header class="brand-name">
+      <img class="brand-logo" src="/assets/LOGO-REALSTATE-01.svg">
+    </header>
+    <div class="input-containers">
+        <form>
+          <input type="text" placeholder="Buscar una casa">
+          <button class="primary" type="button">BUSCAR</button>
+        </form>
+    </div>
   </section>
   <section class="results">
     <app-housing-location 
