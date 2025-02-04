@@ -17,10 +17,12 @@ import { HousingService } from '../housing.service';
     <h2>Busca entre cientos de opciones con la garantia de anuncios actualizados periódicamente</h2>
     </header>
     <div class="input-containers">
+      <div class="input-card">
         <form>
-          <input type="text" placeholder="Buscar una casa">
+          <input type="text" placeholder="Buscar propiedades de renta">
           <button class="primary" type="button">BUSCAR</button>
         </form>
+      </div>
     </div>
   </section>
   <section class="results">
