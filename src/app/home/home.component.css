@@ -28,7 +28,7 @@ form {
 }
 
 .hero-bg {
-  height: 90vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   background-image: url(src/assets/hero-home.avif);
