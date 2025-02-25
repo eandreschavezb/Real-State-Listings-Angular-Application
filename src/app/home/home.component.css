@@ -100,8 +100,12 @@ button {
     gap: 10px;
     justify-content: space-around; */
     margin-top: 2vh;
-    column-count: 5;
-    column-gap: 1em;
+/*     column-count: 3;
+    column-gap: 3em; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+/*     grid-template-rows: repeat(auto-fit, minmax(350px, 1fr)); */
+    gap: 20px;
   }
   
 
